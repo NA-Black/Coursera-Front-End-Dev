@@ -52,17 +52,16 @@ h3 {
     position: relative;
     width: 250px;
     border: 1px solid black;
-    margin-left: auto;
+    margin: -1px -1px 0px auto;
     padding: 10px;
     background-color: #fff1cf;
-    margin: -1px -1px 0px 0px;
 }
 
 .title-box-2 {
     position: relative;
     width: 250px;
     border: 1px solid black;
-    margin-left: auto;
+    margin: -1px -0.5px 0px auto;
     padding: 10px;
     background-color: #a24e4e;
 }
@@ -71,7 +70,7 @@ h3 {
     position: relative;
     width: 250px;
     border: 1px solid black;
-    margin-left: auto;
+    margin: -1px -1px 0px auto;
     padding: 10px;
     background-color: #cce5ff;
 }
